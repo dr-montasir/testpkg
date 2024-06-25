@@ -1,0 +1,7 @@
+[package]
+name = "testpkg"
+version = "1.0.0"
+description = "a demo test package"
+repository = "https://github.com/dr-montasir/testpkg.git"
+keywords = [ "demo,", "test,", "pkg" ]
+license = "MIT"
