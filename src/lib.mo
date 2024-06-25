@@ -8,6 +8,7 @@ module {
 	/// ```motoko
 	/// assert add(1, 2) == 3;
 	/// assert add(7, 3) == 10;
+	/// assert add(0, 4) == 4;
 	/// ```
 	public func add(x : Nat, y : Nat) : Nat {
 		return x + y;
